@@ -89,15 +89,7 @@ The platform aims to:
 ## 📘 Deliverables in this Repo  
 
 - **Report** → [SRE Report PDF](report/SRE_Report.pdf)  
-- **Diagrams** → [System & Use Case Diagrams](design/)  
-
----
-
-## 👥 Contributors  
-
-- Farhanaz Kamrun  
-- Faria Ahmed Richi  
-- Eshita Rani Acharjee  
+- **Diagrams** → [System & Use Case Diagrams](designs/)  
 
 ---
 

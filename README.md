@@ -15,12 +15,6 @@ The platform is designed to address **language and accessibility barriers** face
 
 ---
 
-## 👥 Intended Audience  
-- **Developers** → To understand the requirements for building such a platform.  
-- **Users (Workers & Clients)** → To see the conceptual features of the platform.  
-
----
-
 ## 📊 Project Scope  
 The platform aims to:  
 - Create worker profiles with voice uploads.  

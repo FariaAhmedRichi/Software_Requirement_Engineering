@@ -75,6 +75,17 @@ The platform aims to:
 
 ---
 
+## 🖥️ Design Tools & Experience  
+
+- **Canva** → used for system diagrams, use case models, and report visuals.  
+- **Figma** → I have prior **software engineering project experience** in Figma, where I designed professional UI/UX flows, high-fidelity mockups, and interactive prototypes.  
+  - These designs were more polished and production-ready compared to Canva.  
+  - They reflect my ability to produce **industry-standard UI/UX work** beyond academic demos.  
+
+🔗 [View Figma Portfolio](#) *(replace `#` with your link or screenshots in `/figma-designs`)*  
+
+---
+
 ## 📘 Deliverables in this Repo  
 
 - **Report** → [SRE Report PDF](report/SRE_Report.pdf)  
